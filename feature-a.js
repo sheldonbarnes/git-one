@@ -1,0 +1,1 @@
+SVGComponentTransferFunctionElement.log('feature-a')
